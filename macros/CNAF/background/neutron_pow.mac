@@ -1,0 +1,14 @@
+/run/verbose 1
+/run/initialize
+/gun/sourceGen false
+/gps/particle gamma           # Устанавливаем частицу — гамма-квант
+#/gps/energy 1 MeV             # Устанавливаем энергию гамма-квантов
+/gps/pos/type Point           # Устанавливаем точечный источник
+/gps/pos/centre 0. 3. 20. cm   # Центр источника в координатах (0,0,0)
+/gps/direction 0 0 -1          # Направление по оси z (нормальное к поверхности)
+/gps/ang/type iso             # Изотропное излучение во все направления
+/gps/ene/type Pow
+/gps/ene/alpha -1
+/gps/ene/min 10  keV
+/gps/ene/max 100 MeV
+/run/beamOn 10000000

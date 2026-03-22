@@ -1,0 +1,18 @@
+/run/verbose 1
+/run/initialize
+/gun/sourceGen false
+/gps/particle  gamma
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 6.48 cm
+/gps/pos/centre 0 4.66 17.39 cm
+/gps/pos/rot1 0 -0.974 0.225
+/gps/pos/rot2 1 0 0
+/gps/ang/type cos
+/gps/ang/maxtheta 1 deg
+/gps/ene/type Pow
+/gps/ene/alpha -1
+/gps/ene/min 10  keV
+/gps/ene/max 100 GeV
+/run/beamOn 100 
+
