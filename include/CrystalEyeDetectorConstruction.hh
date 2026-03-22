@@ -1,8 +1,8 @@
 // **************************************************************
 //
 //      ------ CrystalEyeAnalysis  ------
-//           Modified by Libo Wu (06 May 2022)
-//           Email: libo.wu@gssi.it
+//           by Aleksei Smirnov (23 Sep 2023)
+//           Email: aleksei.smirnov@gssi.it
 //
 // **************************************************************
 

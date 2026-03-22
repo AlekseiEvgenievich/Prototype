@@ -1,8 +1,8 @@
 // **************************************************************
 //
 //      ------------ CrystalEyeCalorimeterSD  ------
-//           by Libo Wu (20 Sep 2021)
-//           Email: libo.wu@gssi.it
+//           by Aleksei Smirnov (23 Sep 2023)
+//           Email: aleksei.smirnov@gssi.it
 //
 // **************************************************************
 

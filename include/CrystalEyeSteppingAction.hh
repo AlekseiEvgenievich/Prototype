@@ -1,8 +1,8 @@
 // **************************************************************
 //
 //      ------ CrystaliEyeSteppingAction  ------
-//           by Libo Wu (12 Oct 2021)
-//           Email: libo.wu@gssi.it
+//           by Aleksei Smirnov (23 Sep 2023)
+//           Email: aleksei.smirnov@gssi.it
 //
 // **************************************************************
 

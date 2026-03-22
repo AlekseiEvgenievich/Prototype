@@ -1,8 +1,8 @@
 // **************************************************************
 //
 //      ------ CrystalEyePrimaryGeneratorAction.hh  ------
-//           Modified by Libo Wu (23 Sep 2021)
-//           Email: libo.wu@gssi.it
+//           by Aleksei Smirnov (23 Sep 2023)
+//           Email: aleksei.smirnov@gssi.it
 //
 // **************************************************************
 

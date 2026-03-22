@@ -2,8 +2,8 @@
 // ------------------------------------------------------------
 //
 //      ------------ CrystalEyeCalorimeterDataManager.hh  ------
-//           by Libo Wu (15 Feb 2022)
-//           Email: libo.wu@gssi.it
+//           by Aleksei Smirnov (23 Sep 2023)
+//           Email: aleksei.smirnov@gssi.it
 //
 // ------------------------------------------------------------
 
